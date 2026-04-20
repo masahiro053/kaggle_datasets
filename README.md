@@ -14,4 +14,6 @@ kaggleのDatasetsを使用した練習用リポジトリ
 |009|[Customer_Spending_Dataset](https://www.kaggle.com/datasets/goyaladi/customer-spending-dataset)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/1/10|
 |010|[Glass Classification](https://www.kaggle.com/datasets/uciml/glass/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/1/14|
 |xxx|xxx|xxx|xxx|
+|011|[Mall Visiting Customer Data](https://www.kaggle.com/datasets/krishnaraj30/mall-visiting-customer-data/data)|[README](https://github.com/kaneda05/kaggle_datasets/blob/main/02_Coffee%20Shop%20Sales%20Insights/07_README.md)|2026/4/20|
+|xxx|xxx|xxx|xxx|
 
