@@ -4,7 +4,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![EconML](https://img.shields.io/badge/EconML-Double_ML-FF6F00.svg)](https://econml.azurewebsites.net/)
 [![DoWhy](https://img.shields.io/badge/DoWhy-Causal_Inference-8E75B2.svg)](https://microsoft.github.io/dowhy/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-Gradient_Boosting-FF4B4B.svg)](https://lightgbm.readthedocs.io/)
 
 ## 📌 概要 (Overview)
 本プロジェクトは、Eコマースにおける「クーポンのバラマキによる利益率（マージン）の毀損」というビジネス課題に対し、**因果推論（Causal Inference）**および**Double Machine Learning (DML)**を用いてアプローチした分析リポジトリです。
