@@ -16,4 +16,4 @@ kaggleのDatasetsを使用した練習用リポジトリ
 |011|[Mall Visiting Customer Data](https://www.kaggle.com/datasets/krishnaraj30/mall-visiting-customer-data/data)|[README](https://github.com/masahiro053/kaggle_datasets/blob/main/second_folder/11_Mall%20Visiting%20Customer%20Data/11_README.md)|2026/4/20|
 |012|[E-commerce Orders Dataset 2026](https://www.kaggle.com/datasets/mmumairkhattak/e-commerce-orders-dataset-2026-scra)|[README](https://github.com/masahiro053/kaggle_datasets/blob/main/second_folder/12_E-commerce%20Orders%20Dataset%202026%20%7C%20SCRA/12_README.md)|2026/6/28|
 |013|[]()
-|014|[](https://www.kaggle.com/datasets/harpartapsingh13/consumer-shopping-behavior-and-buying-survey-dataset)
+|014|[](https://www.kaggle.com/datasets/harpartapsingh13/consumer-shopping-behavior-and-buying-survey-dataset)|2026/10/30|
